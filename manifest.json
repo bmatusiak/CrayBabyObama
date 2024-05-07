@@ -1,7 +1,7 @@
 {
-  "name": "CrayBabyObama",
+  "name": "CryBabyObama",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/bmatusiak/CrayBabyObama",
+  "website_url": "https://github.com/bmatusiak/CryBabyObama",
   "description": "old bird audio mod, for friends",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
